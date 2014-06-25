@@ -1,0 +1,3142 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.1.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ "" ],
+    "shared_name" : "Tony Pawson (Scopus)(4)",
+    "SUID" : 38165,
+    "name" : "10+ all edges"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "16838",
+        "Times_Cited" : 1163,
+        "selected" : false,
+        "SUID" : 16838,
+        "name" : "",
+        "Label" : "van der Geer",
+        "First_Initial" : "der",
+        "shared_name" : "",
+        "Last_Name" : "van"
+      },
+      "position" : {
+        "x" : 129.47602548349596,
+        "y" : 295.65737004155267
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17259",
+        "Times_Cited" : 1353,
+        "selected" : false,
+        "SUID" : 17259,
+        "name" : "",
+        "Label" : "P Metalnikov",
+        "First_Initial" : "P",
+        "shared_name" : "",
+        "Last_Name" : "Metalnikov"
+      },
+      "position" : {
+        "x" : 397.7247314453125,
+        "y" : 355.8302521216308
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16955",
+        "Times_Cited" : 780,
+        "selected" : false,
+        "SUID" : 16955,
+        "name" : "",
+        "Label" : "A Pasculescu",
+        "First_Initial" : "A",
+        "shared_name" : "",
+        "Last_Name" : "Pasculescu"
+      },
+      "position" : {
+        "x" : 98.02628326416016,
+        "y" : 581.8633240674804
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17320",
+        "Times_Cited" : 590,
+        "selected" : false,
+        "SUID" : 17320,
+        "name" : "",
+        "Label" : "N Jones",
+        "First_Initial" : "N",
+        "shared_name" : "",
+        "Last_Name" : "Jones"
+      },
+      "position" : {
+        "x" : 135.98488872116286,
+        "y" : 404.2601826717946
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16489",
+        "Times_Cited" : 176,
+        "selected" : false,
+        "SUID" : 16489,
+        "name" : "",
+        "Label" : "M Smith",
+        "First_Initial" : "M",
+        "shared_name" : "",
+        "Last_Name" : "Smith"
+      },
+      "position" : {
+        "x" : 388.7400298607911,
+        "y" : 74.7598876953125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17028",
+        "Times_Cited" : 970,
+        "selected" : false,
+        "SUID" : 17028,
+        "name" : "",
+        "Label" : "L Kay",
+        "First_Initial" : "L",
+        "shared_name" : "",
+        "Last_Name" : "Kay"
+      },
+      "position" : {
+        "x" : 190.04500431889642,
+        "y" : -134.84625244140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17208",
+        "Times_Cited" : 3089,
+        "selected" : false,
+        "SUID" : 17208,
+        "name" : "",
+        "Label" : "Geraldine Mbamalu",
+        "First_Initial" : "G",
+        "shared_name" : "",
+        "Last_Name" : "Mbamalu"
+      },
+      "position" : {
+        "x" : 201.21484883526864,
+        "y" : 99.2141927263583
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17025",
+        "Times_Cited" : 2307,
+        "selected" : false,
+        "SUID" : 17025,
+        "name" : "",
+        "Label" : "G Pelicci",
+        "First_Initial" : "G",
+        "shared_name" : "",
+        "Last_Name" : "Pelicci"
+      },
+      "position" : {
+        "x" : 391.14914446168405,
+        "y" : -203.9132689804319
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16702",
+        "Times_Cited" : 969,
+        "selected" : false,
+        "SUID" : 16702,
+        "name" : "",
+        "Label" : "A Bernstein",
+        "First_Initial" : "A",
+        "shared_name" : "",
+        "Last_Name" : "Bernstein"
+      },
+      "position" : {
+        "x" : -38.60118103027344,
+        "y" : 112.43988652104485
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17031",
+        "Times_Cited" : 925,
+        "selected" : false,
+        "SUID" : 17031,
+        "name" : "",
+        "Label" : "S Li",
+        "First_Initial" : "S",
+        "shared_name" : "",
+        "Last_Name" : "Li"
+      },
+      "position" : {
+        "x" : 59.243759175129526,
+        "y" : 210.48883056807972
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17067",
+        "Times_Cited" : 1325,
+        "selected" : false,
+        "SUID" : 17067,
+        "name" : "",
+        "Label" : "J Fawcett",
+        "First_Initial" : "J",
+        "shared_name" : "",
+        "Last_Name" : "Fawcett"
+      },
+      "position" : {
+        "x" : 544.6314035537289,
+        "y" : 392.74901323989616
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17093",
+        "Times_Cited" : 3438,
+        "selected" : false,
+        "SUID" : 17093,
+        "name" : "",
+        "Label" : "Jane McGlade",
+        "First_Initial" : "J",
+        "shared_name" : "",
+        "Last_Name" : "McGlade"
+      },
+      "position" : {
+        "x" : 454.46057633713644,
+        "y" : -138.683308866297
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16624",
+        "Times_Cited" : 3045,
+        "selected" : false,
+        "SUID" : 16624,
+        "name" : "",
+        "Label" : "L Cantley",
+        "First_Initial" : "L",
+        "shared_name" : "",
+        "Last_Name" : "Cantley"
+      },
+      "position" : {
+        "x" : 67.46715397709954,
+        "y" : -101.06603240966797
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17086",
+        "Times_Cited" : 2436,
+        "selected" : false,
+        "SUID" : 17086,
+        "name" : "",
+        "Label" : "P Pelicci",
+        "First_Initial" : "P",
+        "shared_name" : "",
+        "Last_Name" : "Pelicci"
+      },
+      "position" : {
+        "x" : 567.6537424175403,
+        "y" : -17.81602983132325
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17284",
+        "Times_Cited" : 1391,
+        "selected" : false,
+        "SUID" : 17284,
+        "name" : "",
+        "Label" : "Karen Colwill",
+        "First_Initial" : "K",
+        "shared_name" : "",
+        "Last_Name" : "Colwill"
+      },
+      "position" : {
+        "x" : 268.0220275414551,
+        "y" : 389.93988037109375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17353",
+        "Times_Cited" : 44061,
+        "selected" : false,
+        "SUID" : 17353,
+        "name" : "",
+        "Label" : "Tony Pawson",
+        "First_Initial" : "T",
+        "shared_name" : "",
+        "Last_Name" : "Pawson"
+      },
+      "position" : {
+        "x" : 210.80749002854282,
+        "y" : 202.81471761350258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17150",
+        "Times_Cited" : 1127,
+        "selected" : false,
+        "SUID" : 17150,
+        "name" : "",
+        "Label" : "F Bladt",
+        "First_Initial" : "F",
+        "shared_name" : "",
+        "Last_Name" : "Bladt"
+      },
+      "position" : {
+        "x" : 465.2850646972656,
+        "y" : 199.04434819096676
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16681",
+        "Times_Cited" : 721,
+        "selected" : false,
+        "SUID" : 16681,
+        "name" : "",
+        "Label" : "J Jin",
+        "First_Initial" : "J",
+        "shared_name" : "",
+        "Last_Name" : "Jin"
+      },
+      "position" : {
+        "x" : 352.7785796886674,
+        "y" : 592.2759500595421
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16674",
+        "Times_Cited" : 1473,
+        "selected" : false,
+        "SUID" : 16674,
+        "name" : "",
+        "Label" : "A Cheng",
+        "First_Initial" : "A",
+        "shared_name" : "",
+        "Last_Name" : "Cheng"
+      },
+      "position" : {
+        "x" : 355.6583251953125,
+        "y" : -66.80320124750982
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17111",
+        "Times_Cited" : 3629,
+        "selected" : false,
+        "SUID" : 17111,
+        "name" : "",
+        "Label" : "M Moran",
+        "First_Initial" : "M",
+        "shared_name" : "",
+        "Last_Name" : "Moran"
+      },
+      "position" : {
+        "x" : -115.34231054204429,
+        "y" : -46.593953411058465
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16990",
+        "Times_Cited" : 184,
+        "selected" : false,
+        "SUID" : 16990,
+        "name" : "",
+        "Label" : "W Hardy",
+        "First_Initial" : "W",
+        "shared_name" : "",
+        "Last_Name" : "Hardy"
+      },
+      "position" : {
+        "x" : 452.88336181640625,
+        "y" : 501.62648625249017
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16923",
+        "Times_Cited" : 1236,
+        "selected" : false,
+        "SUID" : 16923,
+        "name" : "",
+        "Label" : "Rune Linding",
+        "First_Initial" : "R",
+        "shared_name" : "",
+        "Last_Name" : "Linding"
+      },
+      "position" : {
+        "x" : 51.706967781726014,
+        "y" : 481.0013122558594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17109",
+        "Times_Cited" : 6806,
+        "selected" : false,
+        "SUID" : 17109,
+        "name" : "",
+        "Label" : "Gerald Gish",
+        "First_Initial" : "G",
+        "shared_name" : "",
+        "Last_Name" : "Gish"
+      },
+      "position" : {
+        "x" : 350.3734650122558,
+        "y" : 155.9540314185058
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17042",
+        "Times_Cited" : 762,
+        "selected" : false,
+        "SUID" : 17042,
+        "name" : "",
+        "Label" : "J Forman-Kay",
+        "First_Initial" : "J",
+        "shared_name" : "",
+        "Last_Name" : "Forman-Kay"
+      },
+      "position" : {
+        "x" : -18.521326492968694,
+        "y" : -15.964178085327148
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16857",
+        "Times_Cited" : 2888,
+        "selected" : false,
+        "SUID" : 16857,
+        "name" : "",
+        "Label" : "M Henkemeyer",
+        "First_Initial" : "M",
+        "shared_name" : "",
+        "Last_Name" : "Henkemeyer"
+      },
+      "position" : {
+        "x" : 437.6018216672366,
+        "y" : -2.7345150558109665
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16995",
+        "Times_Cited" : 713,
+        "selected" : false,
+        "SUID" : 16995,
+        "name" : "",
+        "Label" : "L Taylor",
+        "First_Initial" : "L",
+        "shared_name" : "",
+        "Last_Name" : "Taylor"
+      },
+      "position" : {
+        "x" : 263.22369999760735,
+        "y" : 480.1106872558594
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16722",
+        "Times_Cited" : 306,
+        "selected" : false,
+        "SUID" : 16722,
+        "name" : "",
+        "Label" : "A Gingras",
+        "First_Initial" : "A",
+        "shared_name" : "",
+        "Last_Name" : "Gingras"
+      },
+      "position" : {
+        "x" : 182.0295664487785,
+        "y" : 647.9132689804101
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16977",
+        "Times_Cited" : 650,
+        "selected" : false,
+        "SUID" : 16977,
+        "name" : "",
+        "Label" : "X Liu",
+        "First_Initial" : "X",
+        "shared_name" : "",
+        "Last_Name" : "Liu"
+      },
+      "position" : {
+        "x" : -103.83114111016039,
+        "y" : 216.24441528403258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17192",
+        "Times_Cited" : 1545,
+        "selected" : false,
+        "SUID" : 17192,
+        "name" : "",
+        "Label" : "C Ellis",
+        "First_Initial" : "C",
+        "shared_name" : "",
+        "Last_Name" : "Ellis"
+      },
+      "position" : {
+        "x" : -178.65374241754762,
+        "y" : 103.05124920365051
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17328",
+        "Times_Cited" : 1447,
+        "selected" : false,
+        "SUID" : 17328,
+        "name" : "",
+        "Label" : "Sarang Kulkarni",
+        "First_Initial" : "S",
+        "shared_name" : "",
+        "Last_Name" : "Kulkarni"
+      },
+      "position" : {
+        "x" : 504.8915710449219,
+        "y" : 286.61400456303704
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "17188",
+        "Times_Cited" : 3245,
+        "selected" : false,
+        "SUID" : 17188,
+        "name" : "",
+        "Label" : "Z Songyang",
+        "First_Initial" : "Z",
+        "shared_name" : "",
+        "Last_Name" : "Songyang"
+      },
+      "position" : {
+        "x" : 171.54238891601562,
+        "y" : -28.63663249140631
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16600",
+        "Times_Cited" : 1000,
+        "selected" : false,
+        "SUID" : 16600,
+        "name" : "",
+        "Label" : "F Sicheri",
+        "First_Initial" : "F",
+        "shared_name" : "",
+        "Last_Name" : "Sicheri"
+      },
+      "position" : {
+        "x" : 109.12549338005192,
+        "y" : -194.32062778714317
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "16983",
+        "Times_Cited" : 2289,
+        "selected" : false,
+        "SUID" : 16983,
+        "name" : "",
+        "Label" : "P Nash",
+        "First_Initial" : "P",
+        "shared_name" : "",
+        "Last_Name" : "Nash"
+      },
+      "position" : {
+        "x" : 297.14126076781395,
+        "y" : -136.76478062766546
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "25588",
+        "source" : "16838",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "The Shc adaptor protein forms interdependent phosphotyrosine-mediated protein complexes in mast cells stimulated with interleukin 3" ],
+        "SUID" : 25588,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "25591",
+        "source" : "16838",
+        "target" : "16857",
+        "selected" : false,
+        "publications" : [ "Role of p120 Ras-GAP in directed cell movement", "Aberrant Ras regulation and reduced p190 tyrosine phosphorylation in cells lacking p120-Gap" ],
+        "SUID" : 25591,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "25565",
+        "source" : "16838",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "A HUPO test sample study reveals common problems in mass spectrometry-based proteomics" ],
+        "SUID" : 25565,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "25570",
+        "source" : "16838",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "MAP kinase phosphorylation of mSos1 promotes dissociation of mSos1-Shc and mSos1-EGF receptor complexes" ],
+        "SUID" : 25570,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "25548",
+        "source" : "16838",
+        "target" : "16702",
+        "selected" : false,
+        "publications" : [ "Oncogenic mutation in the Kit receptor tyrosine kinase alters substrate specificity and induces degradation of the protein tyrosine phosphatase SHP-1" ],
+        "SUID" : 25548,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "25559",
+        "source" : "16838",
+        "target" : "17042",
+        "selected" : false,
+        "publications" : [ "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein" ],
+        "SUID" : 25559,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "25602",
+        "source" : "16838",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "A HUPO test sample study reveals common problems in mass spectrometry-based proteomics", "The Shc adaptor protein forms interdependent phosphotyrosine-mediated protein complexes in mast cells stimulated with interleukin 3", "Role of p120 Ras-GAP in directed cell movement", "Re-engineering the target specificity of the insulin receptor by modification of a PTB domain binding site", "Aberrant Ras regulation and reduced p190 tyrosine phosphorylation in cells lacking p120-Gap", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein", "Oncogenic mutation in the Kit receptor tyrosine kinase alters substrate specificity and induces degradation of the protein tyrosine phosphatase SHP-1", "The Shc adaptor protein is highly phosphorylated at conserved, twin tyrosine residues (Y239/240) that mediate protein-protein interactions", "Identification of residues that control specific binding of the Shc phosphotyrosine-binding domain to phosphotyrosine sites", "A conserved amino-terminal Shc domain binds to phosphotyrosine motifs in activated receptors and phosphopeptides", "The PTB domain: A new protein module implicated in signal transduction", "MAP kinase phosphorylation of mSos1 promotes dissociation of mSos1-Shc and mSos1-EGF receptor complexes", "Tyr721 regulates specific binding of the CSF-1 receptor kinase insert to PI 3'-kinase SH2 domains: A model for SH2-mediated receptor-target interactions" ],
+        "SUID" : 25602,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 13,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35073",
+        "source" : "17259",
+        "target" : "16681",
+        "selected" : false,
+        "publications" : [ "Systematic Discovery of In Vivo Phosphorylation Networks", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 35073,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35055",
+        "source" : "17259",
+        "target" : "16955",
+        "selected" : false,
+        "publications" : [ "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 35055,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35052",
+        "source" : "17259",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Regulation of nucleocytoplasmic shuttling of bruton's tyrosine kinase (Btk) through a novel sh3-dependent interaction with ankyrin repeat domain 54 (ANKRD54)", "NOS1AP associates with scribble and regulates dendritic spine development", "The PTB domain of ShcA couples receptor activation to the cytoskeletal regulator IQGAP1", "A HUPO test sample study reveals common problems in mass spectrometry-based proteomics", "Protein phosphatase 1 regulates the phosphorylation state of the polarity scaffold Par-3", "The Bacterial Virulence Factor NleA Inhibits Cellular Protein Secretion by Disrupting Mammalian COPII Function", "Systematic Discovery of In Vivo Phosphorylation Networks", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "WW domains provide a platform for the assembly of multiprotein networks", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization", "Dissecting virulence: Systematic and functional analyses of a pathogenicity island", "Identification and characterization of NleA, a non-LEE-encoded type III translocated virulence factor of enterohaemorrhagic Escherichia coli O157:H7" ],
+        "SUID" : 35052,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 12,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35066",
+        "source" : "17259",
+        "target" : "17284",
+        "selected" : false,
+        "publications" : [ "Regulation of nucleocytoplasmic shuttling of bruton's tyrosine kinase (Btk) through a novel sh3-dependent interaction with ankyrin repeat domain 54 (ANKRD54)", "NOS1AP associates with scribble and regulates dendritic spine development", "Systematic Discovery of In Vivo Phosphorylation Networks", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 35066,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 5,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35041",
+        "source" : "17259",
+        "target" : "17067",
+        "selected" : false,
+        "publications" : [ "NOS1AP associates with scribble and regulates dendritic spine development", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 35041,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27938",
+        "source" : "16955",
+        "target" : "16923",
+        "selected" : false,
+        "publications" : [ "OpenFreezer: A reagent information management software system", "Response to comment on \"\"positive selection of tyrosine loss in metazoan evolution\"\"", "Cell-specific information processing in segregating populations of Eph receptor ephrin-expressing cells", "Positive selection of tyrosine loss in metazoan evolution", "Comparative analysis reveals conserved protein phosphorylation networks implicated in multiple diseases", "Linear motif atlas for phosphorylation-dependent signaling.", "NetworKIN: A resource for exploring cellular phosphorylation networks", "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 27938,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 8,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27941",
+        "source" : "16955",
+        "target" : "16722",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "OpenFreezer: A reagent information management software system", "ProHits: Integrated software for mass spectrometry-based interaction proteomics" ],
+        "SUID" : 27941,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27944",
+        "source" : "16955",
+        "target" : "17320",
+        "selected" : false,
+        "publications" : [ "The ShcA phosphotyrosine docking protein uses distinct mechanisms to regulate myocyte and global heart function" ],
+        "SUID" : 27944,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27949",
+        "source" : "16955",
+        "target" : "17284",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "OpenFreezer: A reagent information management software system", "ProHits: Integrated software for mass spectrometry-based interaction proteomics", "NetworKIN: A resource for exploring cellular phosphorylation networks", "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 27949,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 5,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27954",
+        "source" : "16955",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Linear motif atlas for phosphorylation-dependent signaling." ],
+        "SUID" : 27954,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27962",
+        "source" : "16955",
+        "target" : "16681",
+        "selected" : false,
+        "publications" : [ "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 27962,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27969",
+        "source" : "16955",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 27969,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27973",
+        "source" : "16955",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "OpenFreezer: A reagent information management software system", "Response to comment on \"\"positive selection of tyrosine loss in metazoan evolution\"\"", "The ShcA phosphotyrosine docking protein uses distinct mechanisms to regulate myocyte and global heart function", "ProHits: Integrated software for mass spectrometry-based interaction proteomics", "Cell-specific information processing in segregating populations of Eph receptor ephrin-expressing cells", "Positive selection of tyrosine loss in metazoan evolution", "Comparative analysis reveals conserved protein phosphorylation networks implicated in multiple diseases", "Linear motif atlas for phosphorylation-dependent signaling.", "NetworKIN: A resource for exploring cellular phosphorylation networks", "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 27973,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 11,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37105",
+        "source" : "17320",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Soluble FLT1 binds lipid microdomains in podocytes to control cell morphology and glomerular barrier function", "Podocyte-specific loss of Cdc42 leads to congenital nephropathy", "The ShcA phosphotyrosine docking protein uses distinct mechanisms to regulate myocyte and global heart function", "Nck proteins maintain the adult glomerular filtration barrier", "Phosphorylated YDXV motifs and Nck SH2/SH3 adaptors act cooperatively to induce actin reorganization", "Analysis of a Shc family adaptor protein, ShcD/Shc4, that associates with muscle-specific kinase", "Erratum: Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays (Molecular and Cellular Biology (2006) 26, 22, (8461-8474))", "Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays", "Nck adaptor proteins link nephrin to the actin cytoskeleton of kidney podocytes", "Targeted mutations of the juxtamembrane tyrosines in the Kit receptor tyrosine kinase selectively affect multiple cell lineages", "Transgenic RNA interference in ES cell-derived embryos recapitulates a genetic null phenotype" ],
+        "SUID" : 37105,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 11,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37106",
+        "source" : "17320",
+        "target" : "16489",
+        "selected" : false,
+        "publications" : [ "Analysis of a Shc family adaptor protein, ShcD/Shc4, that associates with muscle-specific kinase", "Erratum: Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays (Molecular and Cellular Biology (2006) 26, 22, (8461-8474))", "Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays" ],
+        "SUID" : 37106,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37112",
+        "source" : "17320",
+        "target" : "16977",
+        "selected" : false,
+        "publications" : [ "Nck proteins maintain the adult glomerular filtration barrier" ],
+        "SUID" : 37112,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37125",
+        "source" : "17320",
+        "target" : "16702",
+        "selected" : false,
+        "publications" : [ "Targeted mutations of the juxtamembrane tyrosines in the Kit receptor tyrosine kinase selectively affect multiple cell lineages" ],
+        "SUID" : 37125,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37132",
+        "source" : "17320",
+        "target" : "17150",
+        "selected" : false,
+        "publications" : [ "Nck adaptor proteins link nephrin to the actin cytoskeleton of kidney podocytes" ],
+        "SUID" : 37132,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21178",
+        "source" : "16489",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "The PTB domain of ShcA couples receptor activation to the cytoskeletal regulator IQGAP1" ],
+        "SUID" : 21178,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21181",
+        "source" : "16489",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate" ],
+        "SUID" : 21181,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21194",
+        "source" : "16489",
+        "target" : "17042",
+        "selected" : false,
+        "publications" : [ "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays" ],
+        "SUID" : 21194,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21193",
+        "source" : "16489",
+        "target" : "16600",
+        "selected" : false,
+        "publications" : [ "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays" ],
+        "SUID" : 21193,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21187",
+        "source" : "16489",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate" ],
+        "SUID" : 21187,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21201",
+        "source" : "16489",
+        "target" : "17028",
+        "selected" : false,
+        "publications" : [ "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays" ],
+        "SUID" : 21201,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21197",
+        "source" : "16489",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate", "The PTB domain of ShcA couples receptor activation to the cytoskeletal regulator IQGAP1", "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays", "Subcellular receptor redistribution and enhanced microspike formation by a Ret receptor preferentially recruiting Dok", "Analysis of a Shc family adaptor protein, ShcD/Shc4, that associates with muscle-specific kinase", "Erratum: Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays (Molecular and Cellular Biology (2006) 26, 22, (8461-8474))", "Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays", "Engineering the recruitment of phosphotyrosine binding domain-containing adaptor proteins reveals distinct roles for RET receptor-mediated cell survival", "FF domains of CA150 bind transcription and splicing factors through multiple weak interactions", "Identification of functional regions in the transforming protein of Fujinami sarcoma virus by in-phase insertion mutagenesis", "Mutagenesis of Fujinami Sarcoma Virus: Evidence that tyrosine phosphorylation of P130gag-fps modulates its biological activity" ],
+        "SUID" : 21197,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 11,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21208",
+        "source" : "16489",
+        "target" : "16990",
+        "selected" : false,
+        "publications" : [ "The PTB domain of ShcA couples receptor activation to the cytoskeletal regulator IQGAP1", "Analysis of a Shc family adaptor protein, ShcD/Shc4, that associates with muscle-specific kinase", "Erratum: Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays (Molecular and Cellular Biology (2006) 26, 22, (8461-8474))", "Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays" ],
+        "SUID" : 21208,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 4,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21209",
+        "source" : "16489",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate" ],
+        "SUID" : 21209,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "21206",
+        "source" : "16489",
+        "target" : "17328",
+        "selected" : false,
+        "publications" : [ "FF domains of CA150 bind transcription and splicing factors through multiple weak interactions" ],
+        "SUID" : 21206,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29666",
+        "source" : "17028",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "A 'three-pronged' binding mechanism for the SAP/SH2D1A SH2 domain: Structural basis and relevance to the XLP syndrome", "Multiple modes of peptide recognition by the PTB domain of the cell fate determinant Numb", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Structure of a Numb PTB domain-peptide complex suggests a basis for diverse binding specificity", "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif" ],
+        "SUID" : 29666,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 5,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29670",
+        "source" : "17028",
+        "target" : "17042",
+        "selected" : false,
+        "publications" : [ "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays", "Structure of a regulatory complex involving the Abl SH3 domain, the Crk SH2 domain, and a Crk-derived phosphopeptide", "A 'three-pronged' binding mechanism for the SAP/SH2D1A SH2 domain: Structural basis and relevance to the XLP syndrome", "Multiple modes of peptide recognition by the PTB domain of the cell fate determinant Numb", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Correlations between structure, dynamics and specific binding in SH2 and PTB domain interactions", "Structure of a Numb PTB domain-peptide complex suggests a basis for diverse binding specificity", "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif", "Nuclear magnetic resonance structure of an SH2 domain of phospholipase C- Œ≥1 complexed with a high affinity binding peptide" ],
+        "SUID" : 29670,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 9,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29667",
+        "source" : "17028",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays", "Structural Coupling of SH2-Kinase Domains Links Fes and Abl Substrate Recognition and Kinase Activation", "Conformational instability of the MARK3 UBA domain compromises ubiquitin recognition and promotes interaction with the adjacent kinase domain", "Structure of a regulatory complex involving the Abl SH3 domain, the Crk SH2 domain, and a Crk-derived phosphopeptide", "A 'three-pronged' binding mechanism for the SAP/SH2D1A SH2 domain: Structural basis and relevance to the XLP syndrome", "Multiple modes of peptide recognition by the PTB domain of the cell fate determinant Numb", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Correlations between structure, dynamics and specific binding in SH2 and PTB domain interactions", "Structure of a Numb PTB domain-peptide complex suggests a basis for diverse binding specificity", "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif", "Selective methyl group protonation of perdeuterated proteins", "A potential SH3 domain-binding site in the Crk SH2 domain", "Direct demonstration of an intramolecular SH2-phosphotyrosine interaction in the Crk protein", "Nuclear magnetic resonance structure of an SH2 domain of phospholipase C- Œ≥1 complexed with a high affinity binding peptide" ],
+        "SUID" : 29667,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 14,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33719",
+        "source" : "17208",
+        "target" : "16702",
+        "selected" : false,
+        "publications" : [ "The Fps/Fes protein-tyrosine kinase promotes angiogenesis in transgenic mice", "SH2 domains of the p85Œ± subunit of phosphatidylinositol 3-kinase regulate binding to growth factor receptors" ],
+        "SUID" : 33719,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33697",
+        "source" : "17208",
+        "target" : "17025",
+        "selected" : false,
+        "publications" : [ "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases" ],
+        "SUID" : 33697,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33703",
+        "source" : "17208",
+        "target" : "17086",
+        "selected" : false,
+        "publications" : [ "Bcr-Abl oncoproteins bind directly to activators of the Ras signalling pathway", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases" ],
+        "SUID" : 33703,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33705",
+        "source" : "17208",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "The Epstein-Barr virus protein, latent membrane protein 2A, Co-opts tyrosine kinases used by the T cell receptor", "WW domains provide a platform for the assembly of multiprotein networks", "SH2/SH3 adaptor proteins can link tyrosine kinases to a Ste20-related protein kinase, HPK1", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "Bcr-Abl oncoproteins bind directly to activators of the Ras signalling pathway" ],
+        "SUID" : 33705,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 5,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33702",
+        "source" : "17208",
+        "target" : "16923",
+        "selected" : false,
+        "publications" : [ "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 33702,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33741",
+        "source" : "17208",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 33741,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33746",
+        "source" : "17208",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 33746,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33747",
+        "source" : "17208",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "The Epstein-Barr virus protein, latent membrane protein 2A, Co-opts tyrosine kinases used by the T cell receptor", "WW domains provide a platform for the assembly of multiprotein networks", "Positional cloning of heart and soul reveals multiple roles for PKCŒª in zebrafish organogenesis", "A mammalian PAR-3-PAR-6 complex implicated in Cdc42/Rac1 and aPKC signalling and cell polarity", "Mammalian Grb2 regulates multiple steps in embryonic development and malignant transformation", "SH2/SH3 adaptor proteins can link tyrosine kinases to a Ste20-related protein kinase, HPK1", "Bidirectional signalling through the EPH-family receptor Nuk and its transmembrane ligands", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "MAP kinase phosphorylation of mSos1 promotes dissociation of mSos1-Shc and mSos1-EGF receptor complexes", "Vascular system defects and neuronal apoptosis in mice lacking Ras GTPase-activating protein", "The Fps/Fes protein-tyrosine kinase promotes angiogenesis in transgenic mice", "Bcr-Abl oncoproteins bind directly to activators of the Ras signalling pathway", "A Drosophila SH2-SH3 adaptor protein implicated in coupling the sevenless tyrosine kinase to an activator of Ras guanine nucleotide exchange, Sos", "The N-terminal region of GAP regulates cytoskeletal structure and cell adhesion", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases", "Multiple SH2-mediated interactions in v-src-transformed cells", "SH2 domains of the p85Œ± subunit of phosphatidylinositol 3-kinase regulate binding to growth factor receptors" ],
+        "SUID" : 33747,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 17,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33723",
+        "source" : "17208",
+        "target" : "16857",
+        "selected" : false,
+        "publications" : [ "Bidirectional signalling through the EPH-family receptor Nuk and its transmembrane ligands", "Vascular system defects and neuronal apoptosis in mice lacking Ras GTPase-activating protein", "A Drosophila SH2-SH3 adaptor protein implicated in coupling the sevenless tyrosine kinase to an activator of Ras guanine nucleotide exchange, Sos" ],
+        "SUID" : 33723,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33730",
+        "source" : "17208",
+        "target" : "16624",
+        "selected" : false,
+        "publications" : [ "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains" ],
+        "SUID" : 33730,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29721",
+        "source" : "17031",
+        "target" : "16838",
+        "selected" : false,
+        "publications" : [ "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein" ],
+        "SUID" : 29721,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29716",
+        "source" : "17031",
+        "target" : "16624",
+        "selected" : false,
+        "publications" : [ "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif" ],
+        "SUID" : 29716,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29717",
+        "source" : "17031",
+        "target" : "17320",
+        "selected" : false,
+        "publications" : [ "Phosphorylated YDXV motifs and Nck SH2/SH3 adaptors act cooperatively to induce actin reorganization", "Nck adaptor proteins link nephrin to the actin cytoskeleton of kidney podocytes" ],
+        "SUID" : 29717,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29714",
+        "source" : "17031",
+        "target" : "16923",
+        "selected" : false,
+        "publications" : [ "Linear motif atlas for phosphorylation-dependent signaling." ],
+        "SUID" : 29714,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29705",
+        "source" : "17031",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate", "Linear motif atlas for phosphorylation-dependent signaling.", "Defining the specificity space of the human Src homology 2 domain", "Phosphorylated YDXV motifs and Nck SH2/SH3 adaptors act cooperatively to induce actin reorganization", "Nck adaptor proteins link nephrin to the actin cytoskeleton of kidney podocytes", "Structural basis for specific binding of the gads SH3 domain to an RxxK motif-containing SLP-76 peptide: A novel mode of peptide recognition", "A 'three-pronged' binding mechanism for the SAP/SH2D1A SH2 domain: Structural basis and relevance to the XLP syndrome", "Characterization of SH2D1A Missense Mutations Identified in X-linked Lymphoproliferative Disease Patients", "Multiple modes of peptide recognition by the PTB domain of the cell fate determinant Numb", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Structure of a Numb PTB domain-peptide complex suggests a basis for diverse binding specificity", "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein" ],
+        "SUID" : 29705,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 13,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30416",
+        "source" : "17067",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 30416,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30417",
+        "source" : "17067",
+        "target" : "17150",
+        "selected" : false,
+        "publications" : [ "Nck adaptor proteins control the organization of neuronal circuits important for walking" ],
+        "SUID" : 30417,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30398",
+        "source" : "17067",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "A mammalian PAR-3-PAR-6 complex implicated in Cdc42/Rac1 and aPKC signalling and cell polarity" ],
+        "SUID" : 30398,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30394",
+        "source" : "17067",
+        "target" : "17328",
+        "selected" : false,
+        "publications" : [ "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization", "A polarity complex of mPar-6 and atypical PKC binds, phosphorylates and regulates mammalian Lgl" ],
+        "SUID" : 30394,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30393",
+        "source" : "17067",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells" ],
+        "SUID" : 30393,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30860",
+        "source" : "17093",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Requirement of phospholipase CŒ≥, the tyrosine phosphatase Syp and the adaptor proteins Shc and Nck for PDGF-induced DNA synthesis: Evidence for the existence of Ras-dependent and Ras-independent pathways", "Drosophila photoreceptor axon guidance and targeting requires the dreadlocks SH2/SH3 adapter protein", "A Drosophila shc gene product is implicated in signaling by the DER receptor tyrosine kinase", "Formation of Shc-Grb2 complexes is necessary to induce neoplastic transformation by overexpression of Shc proteins", "Immunolocalization of the Nuk receptor tyrosine kinase suggests roles in segmental patterning of the brain and axonogenesis", "Phosphorylation of the SHC proteins on tyrosine correlates with the transformation of fibroblasts and erythroblasts by the v-sea tyrosine kinase", "Specific motifs recognized by the SH2 domains of Csk, 3BP2, fps/fes, GRB- 2, HCP, SHC, Syk, and Vav", "Direct interaction between Shc and the platelet-derived growth factor Œ≤- receptor", "Shc products are substrates of erbB-2 kinase", "Proteins with SH2 and SH3 domains couple receptor tyrosine kinases to intracellular signalling pathways.", "The N-terminal region of GAP regulates cytoskeletal structure and cell adhesion", "Epidermal growth factor stimulates the tyrosine phosphorylation of SHC in the mouse", "Insulin-induced phosphorylation of the 46- and 52-kDa Shc proteins", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases", "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases", "A novel transforming protein (SHC) with an SH2 domain is implicated in mitogenic signal transduction" ],
+        "SUID" : 30860,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 16,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30861",
+        "source" : "17093",
+        "target" : "16674",
+        "selected" : false,
+        "publications" : [ "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases" ],
+        "SUID" : 30861,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30870",
+        "source" : "17093",
+        "target" : "17025",
+        "selected" : false,
+        "publications" : [ "Formation of Shc-Grb2 complexes is necessary to induce neoplastic transformation by overexpression of Shc proteins", "Shc products are substrates of erbB-2 kinase", "Insulin-induced phosphorylation of the 46- and 52-kDa Shc proteins", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases", "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases", "A novel transforming protein (SHC) with an SH2 domain is implicated in mitogenic signal transduction" ],
+        "SUID" : 30870,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 6,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30869",
+        "source" : "17093",
+        "target" : "17086",
+        "selected" : false,
+        "publications" : [ "Formation of Shc-Grb2 complexes is necessary to induce neoplastic transformation by overexpression of Shc proteins", "Shc products are substrates of erbB-2 kinase", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases", "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases", "A novel transforming protein (SHC) with an SH2 domain is implicated in mitogenic signal transduction" ],
+        "SUID" : 30869,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 5,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30855",
+        "source" : "17093",
+        "target" : "16624",
+        "selected" : false,
+        "publications" : [ "Specific motifs recognized by the SH2 domains of Csk, 3BP2, fps/fes, GRB- 2, HCP, SHC, Syk, and Vav" ],
+        "SUID" : 30855,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30856",
+        "source" : "17093",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "Requirement of phospholipase CŒ≥, the tyrosine phosphatase Syp and the adaptor proteins Shc and Nck for PDGF-induced DNA synthesis: Evidence for the existence of Ras-dependent and Ras-independent pathways", "A Drosophila shc gene product is implicated in signaling by the DER receptor tyrosine kinase" ],
+        "SUID" : 30856,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30857",
+        "source" : "17093",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "The N-terminal region of GAP regulates cytoskeletal structure and cell adhesion", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases" ],
+        "SUID" : 30857,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "22429",
+        "source" : "16624",
+        "target" : "17042",
+        "selected" : false,
+        "publications" : [ "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif" ],
+        "SUID" : 22429,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "22427",
+        "source" : "16624",
+        "target" : "16857",
+        "selected" : false,
+        "publications" : [ "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells" ],
+        "SUID" : 22427,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "22423",
+        "source" : "16624",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Cell regulation", "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif", "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "A mammalian adaptor protein with conserved Src homology 2 and phosphotyrosine-binding domains is related to Shc and is specifically expressed in the brain", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "Molecular interactions of the Src homology 2 domain protein Shb with phosphotyrosine residues, tyrosine kinase receptors and Src homology 3 domain proteins", "SH2 domain specificity and activity modified by a single residue", "Specific motifs recognized by the SH2 domains of Csk, 3BP2, fps/fes, GRB- 2, HCP, SHC, Syk, and Vav", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain", "SH2 domains recognize specific phosphopeptide sequences" ],
+        "SUID" : 22423,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 10,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "22426",
+        "source" : "16624",
+        "target" : "17028",
+        "selected" : false,
+        "publications" : [ "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif" ],
+        "SUID" : 22426,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "30767",
+        "source" : "17086",
+        "target" : "17025",
+        "selected" : false,
+        "publications" : [ "The Rai (Shc C) adaptor protein regulates the neuronal stress response and protects against cerebral ischemia", "Opposite effects of the p52(shc)/p46(shc) and p66(shc) splicing isoforms on the EGF receptor-MAP kinase-fos signalling pathway", "Erratum: Overexpression of Shc proteins potentiates the proliferative response to the granulocyte-macrophage colony-stimulating factor and recruitment of Grb2/SoS and Grb2/p140 complexes to the Œ≤ receptor subunit (Oncogene (1995) 10 (907-917))", "Overexpression of Shc proteins potentiates the proliferative response to the granulocyte-macrophage colony-stimulating factor and recruitment of Grb2/SoS and Grb2/p140 complexes to the Œ≤ receptor subunit", "Formation of Shc-Grb2 complexes is necessary to induce neoplastic transformation by overexpression of Shc proteins", "Shc products are substrates of erbB-2 kinase", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases", "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases", "A novel transforming protein (SHC) with an SH2 domain is implicated in mitogenic signal transduction" ],
+        "SUID" : 30767,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 9,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35845",
+        "source" : "17284",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Defining the specificity space of the human Src homology 2 domain" ],
+        "SUID" : 35845,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35863",
+        "source" : "17284",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 35863,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35897",
+        "source" : "17284",
+        "target" : "16681",
+        "selected" : false,
+        "publications" : [ "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 35897,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35930",
+        "source" : "17284",
+        "target" : "17188",
+        "selected" : false,
+        "publications" : [ "Defining the specificity space of the human Src homology 2 domain" ],
+        "SUID" : 35930,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35927",
+        "source" : "17284",
+        "target" : "17067",
+        "selected" : false,
+        "publications" : [ "NOS1AP associates with scribble and regulates dendritic spine development", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells" ],
+        "SUID" : 35927,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35918",
+        "source" : "17284",
+        "target" : "16722",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "OpenFreezer: A reagent information management software system", "ProHits: Integrated software for mass spectrometry-based interaction proteomics" ],
+        "SUID" : 35918,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35921",
+        "source" : "17284",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "MERTK Interactions with SH2-Domain Proteins in the Retinal Pigment Epithelium", "Splice-mediated motif switching regulates disabled-1 phosphorylation and SH2 domain interactions", "Regulation of nucleocytoplasmic shuttling of bruton's tyrosine kinase (Btk) through a novel sh3-dependent interaction with ankyrin repeat domain 54 (ANKRD54)", "Mapping protein interactions by combining antibody affinity maturation and mass spectrometry", "OpenFreezer: A reagent information management software system", "A roadmap to generate renewable protein binders to the human proteome", "ProHits: Integrated software for mass spectrometry-based interaction proteomics", "Generating a panel of highly specific antibodies to 20 human SH2 domains by phage display", "NOS1AP associates with scribble and regulates dendritic spine development", "Defining the specificity space of the human Src homology 2 domain", "NetworKIN: A resource for exploring cellular phosphorylation networks", "Systematic Discovery of In Vivo Phosphorylation Networks", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Modification of the Creator recombination system for proteomics applications - Improved expression by addition of splice sites", "WW domains provide a platform for the assembly of multiprotein networks", "The protein kinase Clk/Sty directly modulates SR protein activity: Both hyper- and hypophosphorylation inhibit splicing", "RS cyclophilins: Identification of an NK-TR1-related cyclophilin", "SRPK1 and Clk/Sty protein kinases show distinct substrate specificities for serine/arginine-rich splicing factors", "The Clk/Sty protein kinase phosphorylates SR splicing factors and regulates their intranuclear distribution" ],
+        "SUID" : 35921,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 20,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "35937",
+        "source" : "17284",
+        "target" : "16990",
+        "selected" : false,
+        "publications" : [ "Modification of the Creator recombination system for proteomics applications - Improved expression by addition of splice sites" ],
+        "SUID" : 35937,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "38069",
+        "source" : "17353",
+        "target" : "16600",
+        "selected" : false,
+        "publications" : [ "Composite low affinity interactions dictate recognition of the cyclin-dependent kinase inhibitor Sic1 by the SCF Cdc4 ubiquitin ligase", "Erratum: Structural basis and sequence rules for substrate recognition by tankyrase explain the basis for cherubism disease (Cell (2011) 147 (1340-1354))", "Structural basis and sequence rules for substrate recognition by tankyrase explain the basis for cherubism disease", "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays", "Conformational instability of the MARK3 UBA domain compromises ubiquitin recognition and promotes interaction with the adjacent kinase domain", "Non-canonical interaction of phosphoinositides with pleckstrin homology domains of Tiam1 and ArhGAP9", "A change in conformational dynamics underlies the activation of Eph receptor tyrosine kinases", "Multisite phosphorylation of a CDK inhibitor sets a threshold for the onset of DNA replication", "Cell signalling - the proteomics of it all.", "Structural basis for autoinhibition of the EphB2 receptor tyrosine kinase by the unphosphorylated juxtamembrane region", "Phosphorylation of tyrosine residues in the kinase domain and juxtamembrane region regulates the biological and catalytic activities of Eph receptors", "The crystal structure of an Eph receptor SAM domain reveals a mechanism for modular dimerization" ],
+        "SUID" : 38069,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 12,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "38090",
+        "source" : "17353",
+        "target" : "16702",
+        "selected" : false,
+        "publications" : [ "Targeted mutations of the juxtamembrane tyrosines in the Kit receptor tyrosine kinase selectively affect multiple cell lineages", "Cytokine signaling and hematopoietic homeostasis are disrupted in Lnk-deficient mice", "Oncogenic mutation in the Kit receptor tyrosine kinase alters substrate specificity and induces degradation of the protein tyrosine phosphatase SHP-1", "The Fps/Fes protein-tyrosine kinase promotes angiogenesis in transgenic mice", "'W' mutant forms of the Fms receptor tyrosine kinase act in a dominant manner to suppress CSF-1 dependent cellular transformation", "A mammalian dual specificity protein kinase, Nek1, is related to the NIMA cell cycle regulator and highly expressed in meiotic germ cells", "SH2 domains of the p85Œ± subunit of phosphatidylinositol 3-kinase regulate binding to growth factor receptors", "A mammalian protein kinase with potential for serine/threonine and tyrosine phosphorylation is related to cell cycle regulators", "The Steel/W transduction pathway: Kit autophosphorylation and its association with a unique subset of cytoplasmic signaling proteins is induced by the steel factor", "Receptor tyrosine kinases: Genetic evidence for their role in Drosophila and mouse development", "Myeloid expression of the human c-fps/fes proto-oncogene in transgenic mice", "Lymphoid and mesenchymal tumors in transgenic mice expressing the v-fps protein-tyrosine kinase", "High incidence of lung, bone, and lymphoid tumors in transgenic mice overexpressing mutant alleles of the p53 oncogene", "Cardiac and neurological abnormalities in v-fps transgenic mice" ],
+        "SUID" : 38090,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 14,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37903",
+        "source" : "17353",
+        "target" : "17067",
+        "selected" : false,
+        "publications" : [ "NOS1AP associates with scribble and regulates dendritic spine development", "Par3 and Dynein Associate to Regulate Local Microtubule Dynamics and Centrosome Orientation during Migration", "Nck adaptor proteins control the organization of neuronal circuits important for walking", "Combinatorial ShcA docking interactions support diversity in tissue morphogenesis", "Par6-aPKC uncouples ErbB2 induced disruption of polarized epithelial organization from proliferation control", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Polarity proteins in axon specification and synaptogenesis", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization", "A polarity complex of mPar-6 and atypical PKC binds, phosphorylates and regulates mammalian Lgl", "Signal transduction: N-WASP regulation - The sting in the tail", "A mammalian PAR-3-PAR-6 complex implicated in Cdc42/Rac1 and aPKC signalling and cell polarity" ],
+        "SUID" : 37903,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 11,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37901",
+        "source" : "17353",
+        "target" : "17025",
+        "selected" : false,
+        "publications" : [ "The Rai (Shc C) adaptor protein regulates the neuronal stress response and protects against cerebral ischemia", "Opposite effects of the p52(shc)/p46(shc) and p66(shc) splicing isoforms on the EGF receptor-MAP kinase-fos signalling pathway", "Erratum: Overexpression of Shc proteins potentiates the proliferative response to the granulocyte-macrophage colony-stimulating factor and recruitment of Grb2/SoS and Grb2/p140 complexes to the Œ≤ receptor subunit (Oncogene (1995) 10 (907-917))", "Overexpression of Shc proteins potentiates the proliferative response to the granulocyte-macrophage colony-stimulating factor and recruitment of Grb2/SoS and Grb2/p140 complexes to the Œ≤ receptor subunit", "Formation of Shc-Grb2 complexes is necessary to induce neoplastic transformation by overexpression of Shc proteins", "Shc products are substrates of erbB-2 kinase", "Insulin-induced phosphorylation of the 46- and 52-kDa Shc proteins", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases", "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases", "A novel transforming protein (SHC) with an SH2 domain is implicated in mitogenic signal transduction" ],
+        "SUID" : 37901,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 10,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37921",
+        "source" : "17353",
+        "target" : "17042",
+        "selected" : false,
+        "publications" : [ "Composite low affinity interactions dictate recognition of the cyclin-dependent kinase inhibitor Sic1 by the SCF Cdc4 ubiquitin ligase", "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays", "Polyelectrostatic interactions of disordered ligands suggest a physical basis for ultrasensitive", "A change in conformational dynamics underlies the activation of Eph receptor tyrosine kinases", "Structure of a regulatory complex involving the Abl SH3 domain, the Crk SH2 domain, and a Crk-derived phosphopeptide", "A 'three-pronged' binding mechanism for the SAP/SH2D1A SH2 domain: Structural basis and relevance to the XLP syndrome", "Multiple modes of peptide recognition by the PTB domain of the cell fate determinant Numb", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Diversity in protein recognition by PTB domains", "Correlations between structure, dynamics and specific binding in SH2 and PTB domain interactions", "Structure of a Numb PTB domain-peptide complex suggests a basis for diverse binding specificity", "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein", "Nuclear magnetic resonance structure of an SH2 domain of phospholipase C- Œ≥1 complexed with a high affinity binding peptide" ],
+        "SUID" : 37921,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 14,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37918",
+        "source" : "17353",
+        "target" : "17086",
+        "selected" : false,
+        "publications" : [ "The Rai (Shc C) adaptor protein regulates the neuronal stress response and protects against cerebral ischemia", "Opposite effects of the p52(shc)/p46(shc) and p66(shc) splicing isoforms on the EGF receptor-MAP kinase-fos signalling pathway", "Erratum: Overexpression of Shc proteins potentiates the proliferative response to the granulocyte-macrophage colony-stimulating factor and recruitment of Grb2/SoS and Grb2/p140 complexes to the Œ≤ receptor subunit (Oncogene (1995) 10 (907-917))", "Overexpression of Shc proteins potentiates the proliferative response to the granulocyte-macrophage colony-stimulating factor and recruitment of Grb2/SoS and Grb2/p140 complexes to the Œ≤ receptor subunit", "Formation of Shc-Grb2 complexes is necessary to induce neoplastic transformation by overexpression of Shc proteins", "Bcr-Abl oncoproteins bind directly to activators of the Ras signalling pathway", "Shc products are substrates of erbB-2 kinase", "Association of the Shc and Grb2/Sem5 SH2-containing proteins is implicated in activation of the Ras pathway by tyrosine kinases", "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases", "A novel transforming protein (SHC) with an SH2 domain is implicated in mitogenic signal transduction" ],
+        "SUID" : 37918,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 10,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37971",
+        "source" : "17353",
+        "target" : "17111",
+        "selected" : false,
+        "publications" : [ "Systematic identification of protein complexes in Saccharomyces cerevisiae by mass spectrometry", "Cell signalling - the proteomics of it all.", "Multiple SH2-mediated interactions in v-src-transformed cells", "Construction and expression of linker insertion and site-directed mutants of v-fps protein-tyrosine kinase", "SH2 and SH3 domains: Elements that control interactions of cytoplasmic signaling proteins", "Protein-Tyrosine Kinases Regulate the Phosphorylation, Protein Interactions, Subcellular Distribution, and Activity of p21ras GTPase-Activating Protein", "Src homology region 2 domains direct protein-protein interactions in signal transduction", "Binding of SH2 domains of phospholipase CŒ≥1, GAP, and Src to activated growth factor receptors", "Phosphorylation of GAP and GAP-associated proteins by transforming and mitogenic tyrosine kinases", "The common src homology region 2 domain of cytoplasmic signaling proteins is a positive effector of v-fps tyrosine kinase function", "Structure-function relationships in cellular and viral fps/fes cytoplasmic protein-tyrosine kinases.", "Mutational analysis of a phosphotransfer motif essential for v-fps tyrosine kinase activity" ],
+        "SUID" : 37971,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 12,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31946",
+        "source" : "17150",
+        "target" : "16983",
+        "selected" : false,
+        "publications" : [ "The murine Nck SH2/SH3 adaptors are important for the development of mesoderm-derived embryonic structures and for regulating the cellular actin network" ],
+        "SUID" : 31946,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31976",
+        "source" : "17150",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Fine tuning of the threshold of T cell selection by the Nck adapters", "Nck adaptors are positive regulators of the size and sensitivity of the T-cell repertoire", "Nck adaptor proteins control the organization of neuronal circuits important for walking", "Nck adaptor proteins link nephrin to the actin cytoskeleton of kidney podocytes", "c-Abl phosphorylates Dok1 to promote filopodia during cell spreading", "Costimulation through the inducible costimulator ligand is essential for both T helper and B cell functions in T cell-dependent B cell responses", "The murine Nck SH2/SH3 adaptors are important for the development of mesoderm-derived embryonic structures and for regulating the cellular actin network", "Epidermolysis bullosa and embryonic lethality in mice lacking the multi-PDZ domain protein GRIP1", "Enteropathogenic E. coli Tir binds Nck to initiate actin pedestal formation in host cells", "ICOS is essential for effective T-helper-cell responses" ],
+        "SUID" : 31976,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 10,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31967",
+        "source" : "17150",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Nck adaptor proteins link nephrin to the actin cytoskeleton of kidney podocytes" ],
+        "SUID" : 31967,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31965",
+        "source" : "17150",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "Enteropathogenic E. coli Tir binds Nck to initiate actin pedestal formation in host cells" ],
+        "SUID" : 31965,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23103",
+        "source" : "16681",
+        "target" : "17067",
+        "selected" : false,
+        "publications" : [ "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 23103,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23102",
+        "source" : "16681",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "Sequence-specific recognition of a PxLPxI/L motif by an ankyrin repeat tumbler lock", "Mouse Piwi interactome identifies binding mechanism of Tdrkh Tudor domain to arginine methylated Miwi" ],
+        "SUID" : 23102,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23129",
+        "source" : "16681",
+        "target" : "16923",
+        "selected" : false,
+        "publications" : [ "Eukaryotic protein domains as functional units of cellular evolution", "Systematic Discovery of In Vivo Phosphorylation Networks" ],
+        "SUID" : 23129,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23126",
+        "source" : "16681",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "Rapid and sensitive MRM-based mass spectrometry approach for systematically exploring ganglioside-protein interactions", "Systematic Discovery of In Vivo Phosphorylation Networks", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 23126,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23117",
+        "source" : "16681",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Rapid and sensitive MRM-based mass spectrometry approach for systematically exploring ganglioside-protein interactions", "Soluble FLT1 binds lipid microdomains in podocytes to control cell morphology and glomerular barrier function", "Modular evolution of phosphorylation-based signalling systems", "Sequence-specific recognition of a PxLPxI/L motif by an ankyrin repeat tumbler lock", "Deciphering arginine methylation: Tudor tells the tale", "Structural basis for recognition of arginine methylated Piwi proteins by the extended Tudor domain", "Mouse Piwi interactome identifies binding mechanism of Tdrkh Tudor domain to arginine methylated Miwi", "Eukaryotic protein domains as functional units of cellular evolution", "Systematic Discovery of In Vivo Phosphorylation Networks", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 23117,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 10,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23142",
+        "source" : "16681",
+        "target" : "17328",
+        "selected" : false,
+        "publications" : [ "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 23142,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23097",
+        "source" : "16681",
+        "target" : "17320",
+        "selected" : false,
+        "publications" : [ "Soluble FLT1 binds lipid microdomains in podocytes to control cell morphology and glomerular barrier function" ],
+        "SUID" : 23097,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23011",
+        "source" : "16674",
+        "target" : "16702",
+        "selected" : false,
+        "publications" : [ "Cytokine signaling and hematopoietic homeostasis are disrupted in Lnk-deficient mice" ],
+        "SUID" : 23011,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23026",
+        "source" : "16674",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Deletion of exon I of SMAD7 in mice results in altered B cell responses", "Cytokine signaling and hematopoietic homeostasis are disrupted in Lnk-deficient mice", "Gene dosage-dependent functions for phosphotyrosine-grb2 signaling during mammalian tissue morphogenesis", "Disruption of T cell signaling networks and development by Grb2 haploid insufficiency", "Role of Syk in B-cell development and antigen-receptor signaling", "Mammalian Grb2 regulates multiple steps in embryonic development and malignant transformation", "The Syk protein tyrosine kinase is essential for FcŒ≥/receptor signaling in macrophages and neutrophils", "The Syk and ZAP-70 SH2-containing tyrosine kinases are implicated in pre-T cell receptor signaling", "Disruption of epithelial Œ≥Œ¥ T cell repertoires by mutation of the Syk tyrosine kinase", "Erratum: Syk tyrosine kinase required for mouse viability and B-cell development (Nature (1995) 378 (303-306))", "Syk tyrosine kinase required for mouse viability and B-cell development", "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases" ],
+        "SUID" : 23026,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 12,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23025",
+        "source" : "16674",
+        "target" : "17086",
+        "selected" : false,
+        "publications" : [ "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases" ],
+        "SUID" : 23025,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23024",
+        "source" : "16674",
+        "target" : "17328",
+        "selected" : false,
+        "publications" : [ "Deletion of exon I of SMAD7 in mice results in altered B cell responses", "Mammalian Grb2 regulates multiple steps in embryonic development and malignant transformation", "Disruption of epithelial Œ≥Œ¥ T cell repertoires by mutation of the Syk tyrosine kinase" ],
+        "SUID" : 23024,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23022",
+        "source" : "16674",
+        "target" : "17025",
+        "selected" : false,
+        "publications" : [ "Shc proteins are phosphorylated and regulated by the v-Src and v-Fps protein-tyrosine kinases" ],
+        "SUID" : 23022,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23031",
+        "source" : "16674",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "Mammalian Grb2 regulates multiple steps in embryonic development and malignant transformation" ],
+        "SUID" : 23031,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31156",
+        "source" : "17111",
+        "target" : "16600",
+        "selected" : false,
+        "publications" : [ "Cell signalling - the proteomics of it all." ],
+        "SUID" : 31156,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31157",
+        "source" : "17111",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "Multiple SH2-mediated interactions in v-src-transformed cells" ],
+        "SUID" : 31157,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31160",
+        "source" : "17111",
+        "target" : "16977",
+        "selected" : false,
+        "publications" : [ "Multiple SH2-mediated interactions in v-src-transformed cells" ],
+        "SUID" : 31160,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31161",
+        "source" : "17111",
+        "target" : "17192",
+        "selected" : false,
+        "publications" : [ "SH2 and SH3 domains: Elements that control interactions of cytoplasmic signaling proteins", "Protein-Tyrosine Kinases Regulate the Phosphorylation, Protein Interactions, Subcellular Distribution, and Activity of p21ras GTPase-Activating Protein", "Src homology region 2 domains direct protein-protein interactions in signal transduction", "Binding of SH2 domains of phospholipase CŒ≥1, GAP, and Src to activated growth factor receptors", "Phosphorylation of GAP and GAP-associated proteins by transforming and mitogenic tyrosine kinases" ],
+        "SUID" : 31161,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 5,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28913",
+        "source" : "16990",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "The ShcA PTB domain functions as a biological sensor of phosphotyrosine signaling during breast cancer progression", "Distinct phosphotyrosine-dependent functions of the ShcA adaptor protein are required for transforming growth factor Œ≤ (TGFŒ≤)-induced breast cancer cell migration, invasion, and metastasis", "The Adaptor Protein Grb2 Is Not Essential for the Establishment of the Glomerular Filtration Barrier", "The ShcA SH2 domain engages a 14-3-3/PI3‚Ä≤K signaling complex and promotes breast cancer cell survival", "The ShcA phosphotyrosine docking protein uses distinct mechanisms to regulate myocyte and global heart function", "Receptor tyrosine kinase signaling favors a protumorigenic state in breast cancer cells by inhibiting the adaptive immune response", "The PTB domain of ShcA couples receptor activation to the cytoskeletal regulator IQGAP1", "UNC-129 regulates the balance between UNC-40 dependent and independent UNC-5 signaling pathways", "ShcA signalling is essential for tumour progression in mouse models of human breast cancer", "Combinatorial ShcA docking interactions support diversity in tissue morphogenesis", "Analysis of a Shc family adaptor protein, ShcD/Shc4, that associates with muscle-specific kinase", "Erratum: Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays (Molecular and Cellular Biology (2006) 26, 22, (8461-8474))", "Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays", "Modification of the Creator recombination system for proteomics applications - Improved expression by addition of splice sites" ],
+        "SUID" : 28913,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 14,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28933",
+        "source" : "16990",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "The PTB domain of ShcA couples receptor activation to the cytoskeletal regulator IQGAP1" ],
+        "SUID" : 28933,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28935",
+        "source" : "16990",
+        "target" : "17320",
+        "selected" : false,
+        "publications" : [ "The ShcA phosphotyrosine docking protein uses distinct mechanisms to regulate myocyte and global heart function", "Analysis of a Shc family adaptor protein, ShcD/Shc4, that associates with muscle-specific kinase", "Erratum: Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays (Molecular and Cellular Biology (2006) 26, 22, (8461-8474))", "Screening for PTB domain binding partners and ligand specificity using proteome-derived NPXY peptide arrays" ],
+        "SUID" : 28935,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 4,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28930",
+        "source" : "16990",
+        "target" : "16955",
+        "selected" : false,
+        "publications" : [ "The ShcA phosphotyrosine docking protein uses distinct mechanisms to regulate myocyte and global heart function" ],
+        "SUID" : 28930,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28943",
+        "source" : "16990",
+        "target" : "17067",
+        "selected" : false,
+        "publications" : [ "Combinatorial ShcA docking interactions support diversity in tissue morphogenesis" ],
+        "SUID" : 28943,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27453",
+        "source" : "16923",
+        "target" : "17284",
+        "selected" : false,
+        "publications" : [ "OpenFreezer: A reagent information management software system", "NetworKIN: A resource for exploring cellular phosphorylation networks", "Systematic Discovery of In Vivo Phosphorylation Networks", "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 27453,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 4,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27455",
+        "source" : "16923",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "Systematic Discovery of In Vivo Phosphorylation Networks", "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 27455,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27444",
+        "source" : "16923",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "Systematic Discovery of In Vivo Phosphorylation Networks", "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 27444,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "27442",
+        "source" : "16923",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "OpenFreezer: A reagent information management software system", "Response to comment on \"\"positive selection of tyrosine loss in metazoan evolution\"\"", "A mitotic phosphorylation feedback network connects Cdk1, Plk1, 53BP1, and Chk2 to inactivate the G2/M DNA damage checkpoint", "Cell-specific information processing in segregating populations of Eph receptor ephrin-expressing cells", "Eukaryotic protein domains as functional units of cellular evolution", "Positive selection of tyrosine loss in metazoan evolution", "Comparative analysis reveals conserved protein phosphorylation networks implicated in multiple diseases", "Dynamic modularity in protein interaction networks predicts breast cancer outcome", "Linear motif atlas for phosphorylation-dependent signaling.", "Phosphorylation networks regulating JNK activity in diverse genetic backgrounds", "Network medicine", "NetworKIN: A resource for exploring cellular phosphorylation networks", "Systematic Discovery of In Vivo Phosphorylation Networks", "WW domains provide a platform for the assembly of multiprotein networks", "Synthetic modular systems - Reverse engineering of signal transduction" ],
+        "SUID" : 27442,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 15,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31030",
+        "source" : "17109",
+        "target" : "16624",
+        "selected" : false,
+        "publications" : [ "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "SH2 domain specificity and activity modified by a single residue", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain", "SH2 domains recognize specific phosphopeptide sequences" ],
+        "SUID" : 31030,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 5,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31028",
+        "source" : "17109",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein" ],
+        "SUID" : 31028,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31033",
+        "source" : "17109",
+        "target" : "17042",
+        "selected" : false,
+        "publications" : [ "Structure of a regulatory complex involving the Abl SH3 domain, the Crk SH2 domain, and a Crk-derived phosphopeptide", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein", "Nuclear magnetic resonance structure of an SH2 domain of phospholipase C- Œ≥1 complexed with a high affinity binding peptide" ],
+        "SUID" : 31033,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 4,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31034",
+        "source" : "17109",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate", "WW domains provide a platform for the assembly of multiprotein networks", "The Shc adaptor protein forms interdependent phosphotyrosine-mediated protein complexes in mast cells stimulated with interleukin 3" ],
+        "SUID" : 31034,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31022",
+        "source" : "17109",
+        "target" : "17028",
+        "selected" : false,
+        "publications" : [ "Structural Coupling of SH2-Kinase Domains Links Fes and Abl Substrate Recognition and Kinase Activation", "Structure of a regulatory complex involving the Abl SH3 domain, the Crk SH2 domain, and a Crk-derived phosphopeptide", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "A potential SH3 domain-binding site in the Crk SH2 domain", "Direct demonstration of an intramolecular SH2-phosphotyrosine interaction in the Crk protein", "Nuclear magnetic resonance structure of an SH2 domain of phospholipase C- Œ≥1 complexed with a high affinity binding peptide" ],
+        "SUID" : 31022,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 6,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31019",
+        "source" : "17109",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 31019,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31017",
+        "source" : "17109",
+        "target" : "16838",
+        "selected" : false,
+        "publications" : [ "The Shc adaptor protein forms interdependent phosphotyrosine-mediated protein complexes in mast cells stimulated with interleukin 3", "Role of p120 Ras-GAP in directed cell movement", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein", "The Shc adaptor protein is highly phosphorylated at conserved, twin tyrosine residues (Y239/240) that mediate protein-protein interactions", "Identification of residues that control specific binding of the Shc phosphotyrosine-binding domain to phosphotyrosine sites", "A conserved amino-terminal Shc domain binds to phosphotyrosine motifs in activated receptors and phosphopeptides" ],
+        "SUID" : 31017,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 6,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31004",
+        "source" : "17109",
+        "target" : "17320",
+        "selected" : false,
+        "publications" : [ "Transgenic RNA interference in ES cell-derived embryos recapitulates a genetic null phenotype" ],
+        "SUID" : 31004,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31059",
+        "source" : "17109",
+        "target" : "16857",
+        "selected" : false,
+        "publications" : [ "Role of p120 Ras-GAP in directed cell movement", "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "A Drosophila shc gene product is implicated in signaling by the DER receptor tyrosine kinase" ],
+        "SUID" : 31059,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31083",
+        "source" : "17109",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate", "Sequence-specific recognition of a PxLPxI/L motif by an ankyrin repeat tumbler lock", "Erratum: Structural basis and sequence rules for substrate recognition by tankyrase explain the basis for cherubism disease (Cell (2011) 147 (1340-1354))", "Structural basis and sequence rules for substrate recognition by tankyrase explain the basis for cherubism disease", "Targeting the SH2-kinase interface in Bcr-Abl inhibits leukemogenesis", "Conformational determinants of phosphotyrosine peptides complexed with the Src SH2 domain", "Mouse Piwi interactome identifies binding mechanism of Tdrkh Tudor domain to arginine methylated Miwi", "Structural Coupling of SH2-Kinase Domains Links Fes and Abl Substrate Recognition and Kinase Activation", "The K15 protein of Kaposi's sarcoma-associated herpesvirus recruits the endocytic regulator intersectin 2 through a selective SH3 domain interaction", "The Shb signalling scaffold binds to and regulates constitutive signals from the Epstein-Barr virus LMP2A membrane protein", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "T cell activation-induced CrkII binding to the Zap70 protein tyrosine kinase is mediated by Lck-dependent phosphorylation of Zap70 tyrosine 315", "The Epstein-Barr virus protein, latent membrane protein 2A, Co-opts tyrosine kinases used by the T cell receptor", "WW domains provide a platform for the assembly of multiprotein networks", "The Nedd4 family of E3 ubiquitin ligases: Functional diversity within a common modular architecture", "Transgenic RNA interference in ES cell-derived embryos recapitulates a genetic null phenotype", "Structure of a regulatory complex involving the Abl SH3 domain, the Crk SH2 domain, and a Crk-derived phosphopeptide", "SH2 domains, interaction modules and cellular wiring", "Enteropathogenic E. coli Tir binds Nck to initiate actin pedestal formation in host cells", "Regulation of SLAM-mediated signal transduction by SAP, the X-linked lymphoproliferative gene product", "Structural basis for specificity switching of the Src SH2 domain", "Latent membrane protein 2A of Epstein-Barr virus binds WW domain E3 protein-ubiquitin ligases that ubiquitinate B-cell tyrosine kinases", "The Shc adaptor protein forms interdependent phosphotyrosine-mediated protein complexes in mast cells stimulated with interleukin 3", "Role of p120 Ras-GAP in directed cell movement", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "The carboxyl terminus of B class ephrins constitutes a PDZ domain binding motif", "The B-cell transmembrane protein CD72 binds to and is an in vivo substrate of the protein tyrosine phosphatase SHP-1", "The discoidin domain receptor tyrosine kinases are activated by collagen", "SH2/SH3 adaptor proteins can link tyrosine kinases to a Ste20-related protein kinase, HPK1", "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "RET alternate splicing influences the interaction of activated RET with the SH2 and PTB domains of Shc, and the SH2 domain of Grb2", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein", "The Shc adaptor protein is highly phosphorylated at conserved, twin tyrosine residues (Y239/240) that mediate protein-protein interactions", "SRPK1 and Clk/Sty protein kinases show distinct substrate specificities for serine/arginine-rich splicing factors", "A potential SH3 domain-binding site in the Crk SH2 domain", "Requirement of phospholipase CŒ≥, the tyrosine phosphatase Syp and the adaptor proteins Shc and Nck for PDGF-induced DNA synthesis: Evidence for the existence of Ras-dependent and Ras-independent pathways", "Identification of residues that control specific binding of the Shc phosphotyrosine-binding domain to phosphotyrosine sites", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "Biochemical analysis of SH2 domain-mediated protein interactions", "A conserved amino-terminal Shc domain binds to phosphotyrosine motifs in activated receptors and phosphopeptides", "A Drosophila shc gene product is implicated in signaling by the DER receptor tyrosine kinase", "Construction of an SH2 domain-binding site with mixed specificity", "Bacterial expression, purification and preliminary kinetic description of the kinase domain of v-fps", "Biochemical and genetic analysis of the Drk SH2/SH3 adaptor protein of Drosophila", "Direct demonstration of an intramolecular SH2-phosphotyrosine interaction in the Crk protein", "SH2 domain specificity and activity modified by a single residue", "Nuclear magnetic resonance structure of an SH2 domain of phospholipase C- Œ≥1 complexed with a high affinity binding peptide", "Bcr-Abl oncoproteins bind directly to activators of the Ras signalling pathway", "Identification of residues in the Œ≤ platelet-derived growth factor receptor that confer specificity for binding to phospholipase C-Œ≥1", "Kinetics of p56lck and p60src Src homology 2 domain binding to tyrosine-phosphorylated peptides determined by a competition assay or surface plasmon resonance", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain", "SH2 domains recognize specific phosphopeptide sequences", "Interactions between SH2 domains and tyrosine-phosphorylated platelet- derived growth factor Œ≤-receptor sequences: Analysis of kinetic parameters by a novel biosensor-based approach", "SH2 and SH3 domains: From structure to function" ],
+        "SUID" : 31083,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 54,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31078",
+        "source" : "17109",
+        "target" : "17188",
+        "selected" : false,
+        "publications" : [ "The carboxyl terminus of B class ephrins constitutes a PDZ domain binding motif", "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "SH2 domain specificity and activity modified by a single residue", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain", "SH2 domains recognize specific phosphopeptide sequences" ],
+        "SUID" : 31078,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 6,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31072",
+        "source" : "17109",
+        "target" : "16923",
+        "selected" : false,
+        "publications" : [ "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 31072,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31067",
+        "source" : "17109",
+        "target" : "17086",
+        "selected" : false,
+        "publications" : [ "Bcr-Abl oncoproteins bind directly to activators of the Ras signalling pathway" ],
+        "SUID" : 31067,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31099",
+        "source" : "17109",
+        "target" : "17284",
+        "selected" : false,
+        "publications" : [ "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "WW domains provide a platform for the assembly of multiprotein networks", "SRPK1 and Clk/Sty protein kinases show distinct substrate specificities for serine/arginine-rich splicing factors" ],
+        "SUID" : 31099,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31116",
+        "source" : "17109",
+        "target" : "16600",
+        "selected" : false,
+        "publications" : [ "Erratum: Structural basis and sequence rules for substrate recognition by tankyrase explain the basis for cherubism disease (Cell (2011) 147 (1340-1354))", "Structural basis and sequence rules for substrate recognition by tankyrase explain the basis for cherubism disease" ],
+        "SUID" : 31116,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "31119",
+        "source" : "17109",
+        "target" : "16983",
+        "selected" : false,
+        "publications" : [ "SH2 domains, interaction modules and cellular wiring" ],
+        "SUID" : 31119,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29927",
+        "source" : "17042",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "A 'three-pronged' binding mechanism for the SAP/SH2D1A SH2 domain: Structural basis and relevance to the XLP syndrome", "Multiple modes of peptide recognition by the PTB domain of the cell fate determinant Numb", "Novel mode of ligand binding by the SH2 domain of the human XLP disease gene product SAP/SH2DIA", "Structure of a Numb PTB domain-peptide complex suggests a basis for diverse binding specificity", "High-affinity binding of the Drosophila Numb phosphotyrosine-binding domain to peptides containing a Gly-Pro-(p)Tyr motif", "Characterization of the phosphotyrosine-binding domain of the Drosophila Shc protein" ],
+        "SUID" : 29927,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 6,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29928",
+        "source" : "17042",
+        "target" : "16600",
+        "selected" : false,
+        "publications" : [ "Composite low affinity interactions dictate recognition of the cyclin-dependent kinase inhibitor Sic1 by the SCF Cdc4 ubiquitin ligase", "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays", "A change in conformational dynamics underlies the activation of Eph receptor tyrosine kinases" ],
+        "SUID" : 29928,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "26051",
+        "source" : "16857",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Role of p120 Ras-GAP in directed cell movement", "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "Abnormal mesoderm patterning in mouse embryos mutant for the SH2 tyrosine phosphatase Shp-2", "Aberrant Ras regulation and reduced p190 tyrosine phosphorylation in cells lacking p120-Gap", "Sek4 and Nuk receptors cooperate in guidance of commissural axons and in palate formation", "Bidirectional signalling through the EPH-family receptor Nuk and its transmembrane ligands", "Nuk controls pathfinding of commissural axons in the mammalian central nervous system", "Eph receptors and ligands comprise two major specificity subclasses and are reciprocally compartmentalized during embryogenesis", "A Drosophila shc gene product is implicated in signaling by the DER receptor tyrosine kinase", "Vascular system defects and neuronal apoptosis in mice lacking Ras GTPase-activating protein", "Immunolocalization of the Nuk receptor tyrosine kinase suggests roles in segmental patterning of the brain and axonogenesis", "Proteins with SH2 and SH3 domains couple receptor tyrosine kinases to intracellular signalling pathways.", "A Drosophila SH2-SH3 adaptor protein implicated in coupling the sevenless tyrosine kinase to an activator of Ras guanine nucleotide exchange, Sos" ],
+        "SUID" : 26051,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 13,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "26064",
+        "source" : "16857",
+        "target" : "17093",
+        "selected" : false,
+        "publications" : [ "A Drosophila shc gene product is implicated in signaling by the DER receptor tyrosine kinase", "Immunolocalization of the Nuk receptor tyrosine kinase suggests roles in segmental patterning of the brain and axonogenesis", "Proteins with SH2 and SH3 domains couple receptor tyrosine kinases to intracellular signalling pathways." ],
+        "SUID" : 26064,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29053",
+        "source" : "16995",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "Protein phosphatase 1 regulates the phosphorylation state of the polarity scaffold Par-3", "Systematic Discovery of In Vivo Phosphorylation Networks", "WW domains provide a platform for the assembly of multiprotein networks", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 29053,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 4,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29021",
+        "source" : "16995",
+        "target" : "16722",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1" ],
+        "SUID" : 29021,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29047",
+        "source" : "16995",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate" ],
+        "SUID" : 29047,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29042",
+        "source" : "16995",
+        "target" : "17284",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "Systematic Discovery of In Vivo Phosphorylation Networks", "WW domains provide a platform for the assembly of multiprotein networks" ],
+        "SUID" : 29042,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 3,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "29037",
+        "source" : "16995",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "Rapid and sensitive MRM-based mass spectrometry approach for systematically exploring ganglioside-protein interactions", "Interaction domains of Sos1/Grb2 are finely tuned for cooperative control of embryonic stem cell fate", "Selected reaction monitoring mass spectrometry reveals the dynamics of signaling through the GRB2 adaptor", "Protein Phosphorylation Goes Negative", "Protein phosphatase 1 regulates the phosphorylation state of the polarity scaffold Par-3", "Systematic Discovery of In Vivo Phosphorylation Networks", "WW domains provide a platform for the assembly of multiprotein networks", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization", "The Shc adaptor protein forms interdependent phosphotyrosine-mediated protein complexes in mast cells stimulated with interleukin 3" ],
+        "SUID" : 29037,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 10,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23764",
+        "source" : "16722",
+        "target" : "16923",
+        "selected" : false,
+        "publications" : [ "OpenFreezer: A reagent information management software system" ],
+        "SUID" : 23764,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "23773",
+        "source" : "16722",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Temporal regulation of EGF signalling networks by the scaffold protein Shc1", "The CRAPome: a contaminant repository for affinity purification-mass spectrometry data", "Construction of human activity-based phosphorylation networks", "Profiling the kinome: Current capabilities and future challenges", "Novel NEDD1 phosphorylation sites regulate Œ≥-tubulin binding and mitotic spindle assembly", "Mapping physical interactions within chromatin by proteomic approaches", "Histone recognition and large-scale structural analysis of the human bromodomain family", "A novel whole-cell lysate kinase assay identifies substrates of the p38 MAPK in differentiating myoblasts", "OpenFreezer: A reagent information management software system", "ProHits: Integrated software for mass spectrometry-based interaction proteomics", "A global protein kinase and phosphatase interaction network in yeast" ],
+        "SUID" : 23773,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 11,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28511",
+        "source" : "16977",
+        "target" : "16838",
+        "selected" : false,
+        "publications" : [ "Tyr721 regulates specific binding of the CSF-1 receptor kinase insert to PI 3'-kinase SH2 domains: A model for SH2-mediated receptor-target interactions" ],
+        "SUID" : 28511,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28518",
+        "source" : "16977",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Nck proteins maintain the adult glomerular filtration barrier", "Molecular cloning of an amphibian insulin receptor substrate 1-like cDNA and involvement of phosphatidylinositol 3-kinase in insulin-induced Xenopus oocyte maturation", "Biochemical and genetic analysis of the Drk SH2/SH3 adaptor protein of Drosophila", "Biochemistry of the Src protein-tyrosine kinase: Regulation by SH2 and SH3 domains", "Substrate specificities and identification of a putative binding site for P13K in the carboxy tail of the murine Flt3 receptor tyrosine kinase", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain", "The v-Src SH3 domain binds phosphatidylinositol 3'-kinase", "Activated Src tyrosine kinase phosphorylates Tyr-457 of bovine GTPase- activating protein (GAP) in vitro and the corresponding residue of rat GAP in vivo", "Tyr721 regulates specific binding of the CSF-1 receptor kinase insert to PI 3'-kinase SH2 domains: A model for SH2-mediated receptor-target interactions", "Multiple SH2-mediated interactions in v-src-transformed cells", "The epidermal growth factor receptor phosphorylates GTPase-activating protein (GAP) at Tyr-460, adjacent to the GAP SH2 domains", "Tyrosine phosphorylation of GAP and GAP-associated proteins in lymphoid and fibroblast cells expressing lck", "Interactions of phosphatidylinositol kinase, GTPase-activating protein (GAP), and GAP-associated proteins with the colony-stimulating factor 1 receptor" ],
+        "SUID" : 28518,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 13,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28520",
+        "source" : "16977",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "Biochemical and genetic analysis of the Drk SH2/SH3 adaptor protein of Drosophila", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain" ],
+        "SUID" : 28520,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28522",
+        "source" : "16977",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "Multiple SH2-mediated interactions in v-src-transformed cells" ],
+        "SUID" : 28522,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28525",
+        "source" : "16977",
+        "target" : "16624",
+        "selected" : false,
+        "publications" : [ "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain" ],
+        "SUID" : 28525,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28533",
+        "source" : "16977",
+        "target" : "17188",
+        "selected" : false,
+        "publications" : [ "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain" ],
+        "SUID" : 28533,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33406",
+        "source" : "17192",
+        "target" : "16702",
+        "selected" : false,
+        "publications" : [ "'W' mutant forms of the Fms receptor tyrosine kinase act in a dominant manner to suppress CSF-1 dependent cellular transformation", "SH2 domains of the p85Œ± subunit of phosphatidylinositol 3-kinase regulate binding to growth factor receptors" ],
+        "SUID" : 33406,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33413",
+        "source" : "17192",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "SH2 domains of the p85Œ± subunit of phosphatidylinositol 3-kinase regulate binding to growth factor receptors" ],
+        "SUID" : 33413,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33424",
+        "source" : "17192",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "'W' mutant forms of the Fms receptor tyrosine kinase act in a dominant manner to suppress CSF-1 dependent cellular transformation", "SH2 domains of the p85Œ± subunit of phosphatidylinositol 3-kinase regulate binding to growth factor receptors", "Tyrosine phosphorylation of GAP and GAP-associated proteins in lymphoid and fibroblast cells expressing lck", "SH2 and SH3 domains: Elements that control interactions of cytoplasmic signaling proteins", "Protein-Tyrosine Kinases Regulate the Phosphorylation, Protein Interactions, Subcellular Distribution, and Activity of p21ras GTPase-Activating Protein", "Platelet-Derived Growth Factor Increases the in Vivo Activity of Phospholipase C-Œ≥1 and Phospholipase C-Œ≥2", "Src homology region 2 domains direct protein-protein interactions in signal transduction", "Binding of SH2 domains of phospholipase CŒ≥1, GAP, and Src to activated growth factor receptors", "Effects of substitution of threonine 654 of the epidermal growth factor receptor on epidermal growth factor-mediated activation of phospholipase C", "Binding of GAP to activated PDGF receptors", "Phosphorylation of GAP and GAP-associated proteins by transforming and mitogenic tyrosine kinases", "Phospholipase C isozymes: structural and functional similarities." ],
+        "SUID" : 33424,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 12,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33420",
+        "source" : "17192",
+        "target" : "16977",
+        "selected" : false,
+        "publications" : [ "Tyrosine phosphorylation of GAP and GAP-associated proteins in lymphoid and fibroblast cells expressing lck" ],
+        "SUID" : 33420,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37263",
+        "source" : "17328",
+        "target" : "17109",
+        "selected" : false,
+        "publications" : [ "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Role of p120 Ras-GAP in directed cell movement" ],
+        "SUID" : 37263,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37271",
+        "source" : "17328",
+        "target" : "17284",
+        "selected" : false,
+        "publications" : [ "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Modification of the Creator recombination system for proteomics applications - Improved expression by addition of splice sites" ],
+        "SUID" : 37271,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37247",
+        "source" : "17328",
+        "target" : "16995",
+        "selected" : false,
+        "publications" : [ "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 37247,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37258",
+        "source" : "17328",
+        "target" : "16838",
+        "selected" : false,
+        "publications" : [ "Role of p120 Ras-GAP in directed cell movement" ],
+        "SUID" : 37258,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37257",
+        "source" : "17328",
+        "target" : "17259",
+        "selected" : false,
+        "publications" : [ "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization" ],
+        "SUID" : 37257,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37256",
+        "source" : "17328",
+        "target" : "16990",
+        "selected" : false,
+        "publications" : [ "Modification of the Creator recombination system for proteomics applications - Improved expression by addition of splice sites" ],
+        "SUID" : 37256,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37239",
+        "source" : "17328",
+        "target" : "16857",
+        "selected" : false,
+        "publications" : [ "Role of p120 Ras-GAP in directed cell movement" ],
+        "SUID" : 37239,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37237",
+        "source" : "17328",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Immature T-cell clustering and efficient differentiation require the polarity protein Scribble", "The synthetic triterpenoid 2-cyano-3,12-dioxooleana-1,9-dien-28-oic acid-imidazolide alters transforming growth factor Œ≤-dependent signaling and cell migration by affecting the cytoskeleton and the polarity complex", "Deletion of exon I of SMAD7 in mice results in altered B cell responses", "A Rich1/Amot Complex Regulates the Cdc42 GTPase and Apical-Polarity Proteins in Epithelial Cells", "Modification of the Creator recombination system for proteomics applications - Improved expression by addition of splice sites", "TMF/ARA160 is a BC-box-containing protein that mediates the degradation of Stat3", "FF domains of CA150 bind transcription and splicing factors through multiple weak interactions", "Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization", "A polarity complex of mPar-6 and atypical PKC binds, phosphorylates and regulates mammalian Lgl", "Downregulation of the Ras-mitogen-activated protein kinase pathway by the EphB2 receptor tyrosine kinase is required for ephrin-induced neurite retraction", "Role of p120 Ras-GAP in directed cell movement", "The SH2 tyrosine phosphatase Shp2 is required for mammalian limb development", "Mammalian Grb2 regulates multiple steps in embryonic development and malignant transformation", "UNC-73 activates the Rac GTPase and is required for cell and growth cone migrations in C. elegans", "Disruption of epithelial Œ≥Œ¥ T cell repertoires by mutation of the Syk tyrosine kinase" ],
+        "SUID" : 37237,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 15,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "37236",
+        "source" : "17328",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "Mammalian Grb2 regulates multiple steps in embryonic development and malignant transformation" ],
+        "SUID" : 37236,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33300",
+        "source" : "17188",
+        "target" : "17208",
+        "selected" : false,
+        "publications" : [ "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains" ],
+        "SUID" : 33300,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33304",
+        "source" : "17188",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "Defining the specificity space of the human Src homology 2 domain", "The carboxyl terminus of B class ephrins constitutes a PDZ domain binding motif", "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "A mammalian adaptor protein with conserved Src homology 2 and phosphotyrosine-binding domains is related to Shc and is specifically expressed in the brain", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "Molecular interactions of the Src homology 2 domain protein Shb with phosphotyrosine residues, tyrosine kinase receptors and Src homology 3 domain proteins", "SH2 domain specificity and activity modified by a single residue", "Specific motifs recognized by the SH2 domains of Csk, 3BP2, fps/fes, GRB- 2, HCP, SHC, Syk, and Vav", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain", "SH2 domains recognize specific phosphopeptide sequences" ],
+        "SUID" : 33304,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 10,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33295",
+        "source" : "17188",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Defining the specificity space of the human Src homology 2 domain" ],
+        "SUID" : 33295,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33296",
+        "source" : "17188",
+        "target" : "16857",
+        "selected" : false,
+        "publications" : [ "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells" ],
+        "SUID" : 33296,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33290",
+        "source" : "17188",
+        "target" : "16624",
+        "selected" : false,
+        "publications" : [ "Juxtamembrane tyrosine residues couple the Eph family receptor EphB2/Nuk to specific SH2 domain proteins in neuronal cells", "A mammalian adaptor protein with conserved Src homology 2 and phosphotyrosine-binding domains is related to Shc and is specifically expressed in the brain", "A single point mutation switches the specificity of group III Src homology (SH) 2 domains to that of group I SH2 domains", "Molecular interactions of the Src homology 2 domain protein Shb with phosphotyrosine residues, tyrosine kinase receptors and Src homology 3 domain proteins", "SH2 domain specificity and activity modified by a single residue", "Specific motifs recognized by the SH2 domains of Csk, 3BP2, fps/fes, GRB- 2, HCP, SHC, Syk, and Vav", "Regulation of c-Src tyrosine kinase activity by the Src SH2 domain", "SH2 domains recognize specific phosphopeptide sequences" ],
+        "SUID" : 33290,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 8,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "33322",
+        "source" : "17188",
+        "target" : "17093",
+        "selected" : false,
+        "publications" : [ "Specific motifs recognized by the SH2 domains of Csk, 3BP2, fps/fes, GRB- 2, HCP, SHC, Syk, and Vav" ],
+        "SUID" : 33322,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "22252",
+        "source" : "16600",
+        "target" : "17028",
+        "selected" : false,
+        "publications" : [ "Structural Studies of FF Domains of the Transcription Factor CA150 Provide Insights into the Organization of FF Domain Tandem Arrays", "Conformational instability of the MARK3 UBA domain compromises ubiquitin recognition and promotes interaction with the adjacent kinase domain" ],
+        "SUID" : 22252,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 2,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28718",
+        "source" : "16983",
+        "target" : "17031",
+        "selected" : false,
+        "publications" : [ "Structural basis for specific binding of the gads SH3 domain to an RxxK motif-containing SLP-76 peptide: A novel mode of peptide recognition" ],
+        "SUID" : 28718,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28716",
+        "source" : "16983",
+        "target" : "17353",
+        "selected" : false,
+        "publications" : [ "High-Throughput Phosphotyrosine Profiling Using SH2 Domains", "The Human and Mouse Complement of SH2 Domain Proteins-Establishing the Boundaries of Phosphotyrosine Signaling", "The murine Nck SH2/SH3 adaptors are important for the development of mesoderm-derived embryonic structures and for regulating the cellular actin network", "Assembly of cell regulatory systems through protein interaction domains", "Manipulation of EphB2 regulatory motifs and SH2 binding sites switches MAPK signaling and biological activity", "Structural basis for specific binding of the gads SH3 domain to an RxxK motif-containing SLP-76 peptide: A novel mode of peptide recognition", "A high-affinity Arg-X-X-Lys SH3 binding motif confers specificity for the interaction between Gads and SLP-76 in T cell signaling", "Interaction domains: From simple binding events to complex cellular behavior", "SH2 domains, interaction modules and cellular wiring", "Multisite phosphorylation of a CDK inhibitor sets a threshold for the onset of DNA replication", "Protein-protein interactions define specificity in signal transduction" ],
+        "SUID" : 28716,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 11,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "28710",
+        "source" : "16983",
+        "target" : "16600",
+        "selected" : false,
+        "publications" : [ "Multisite phosphorylation of a CDK inhibitor sets a threshold for the onset of DNA replication" ],
+        "SUID" : 28710,
+        "name" : "",
+        "interaction" : "",
+        "_of_copubs" : 1,
+        "shared_interaction" : "",
+        "shared_name" : ""
+      },
+      "selected" : false
+    } ]
+  }
+}
